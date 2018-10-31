@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541008335703.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2796865328",
+    "id" : "6B3AD4F7",
+    "lastKnownWriteTime" : 1541011151,
+    "last_content_update" : -2147483648,
+    "path" : "~/data_wrangling_part2/code/final_code/working_with_joins_spread_gather.R",
+    "project_path" : "code/final_code/working_with_joins_spread_gather.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

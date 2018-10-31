@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540912208635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3052454320",
+    "id" : "BF7130",
+    "lastKnownWriteTime" : 1540920347,
+    "last_content_update" : -2147483648,
+    "path" : "~/data_wrangling_part2/code/final_code/mutating_columns_basics.R",
+    "project_path" : "code/final_code/mutating_columns_basics.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
